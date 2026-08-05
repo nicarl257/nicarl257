@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=nicarl257&label=GUESTS&color=0969da&style=flat-square" alt="guests" />
 <img src="https://img.shields.io/github/followers/nicarl257?label=FOLLOWERS&style=flat-square&color=0969da&logo=github" alt="followers" />
 
-# Hey there 👋 I'm Carl Chris Karibwami from Burundi
+# Hey there 👋 I'm CARL from Burundi
 
 [![Software Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Engineer)](https://github.com/nicarl257)
 
@@ -19,11 +19,11 @@
 
 ### 🚀 About Me
 
-- 🏋️ I'm in my training arc — leveling up my skills every day
+- 🏋️ I'm in my training arc | leveling up my skills every day
 - 🔭 Software Engineer focused on building full-stack applications with the **MERN** stack
 - 🐍 Comfortable working in **Python** for scripting, backend services, and automation
 - 🐳 Use **Docker** to containerize and ship applications consistently
-- 🌱 Always sharpening my skills across the stack — frontend, backend, and tooling
+- 🌱 Always sharpening my skills across the stack | Frontend, backend, and tooling
 - 💬 Ask me about JavaScript/TypeScript, React, Node.js, or MongoDB
 - 📫 Reach me at [carlchrisk@gmail.com](mailto:carlchrisk@gmail.com)
 
@@ -49,8 +49,6 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-psi-two.vercel.app/api?username=nicarl257&show_icons=true&theme=radical&hide_border=true" alt="Carl's GitHub stats" />
-
-<img src="https://streak-stats.demolab.com?user=nicarl257&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
