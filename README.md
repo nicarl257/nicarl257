@@ -17,7 +17,7 @@
 - 🐳 Use **Docker** to containerize and ship applications consistently
 - 🌱 Always sharpening my skills across the stack — frontend, backend, and tooling
 - 💬 Ask me about JavaScript/TypeScript, React, Node.js, or MongoDB
-- 📫 Reach me at **bethwellwebi@gmail.com**
+- 📫 Reach me at [carlchrisk@gmail.com](mailto:carlchrisk@gmail.com)
 
 ---
 
@@ -40,8 +40,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicarl257&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Carl's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicarl257&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-psi-two.vercel.app/api?username=nicarl257&show_icons=true&theme=radical&hide_border=true" alt="Carl's GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=nicarl257&theme=radical&hide_border=true" alt="GitHub Streak" />
 
@@ -50,7 +49,17 @@
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nicarl257&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=nicarl257&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nicarl257&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -60,12 +69,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carl-chris-karibwami)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bethwellwebi@gmail.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nicarl257&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlchrisk@gmail.com)
 
 </div>
