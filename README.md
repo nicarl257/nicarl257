@@ -1,10 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Carl Chris Karibwami 👋
+<img src="https://img.shields.io/badge/@nicarl257-2ea44f?style=flat-square" alt="username" />
+<img src="https://img.shields.io/badge/REGION-Burundi-6f42c1?style=flat-square" alt="region" />
+<img src="https://komarev.com/ghpvc/?username=nicarl257&label=GUESTS&color=0969da&style=flat-square" alt="guests" />
+<img src="https://img.shields.io/github/followers/nicarl257?label=FOLLOWERS&style=flat-square&color=0969da&logo=github" alt="followers" />
 
-### Software Engineer | MERN Stack Developer
+# Hey there 👋 I'm Carl Chris Karibwami from Burundi
+
+[![Software Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=100000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Engineer)](https://github.com/nicarl257)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+MERN;JavaScript+%2F+TypeScript+%2F+Python;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+
+[![my nomling](https://www.nomlings.cc/badge/nicarl257)](https://www.nomlings.cc/badge)
 
 </div>
 
@@ -12,6 +19,7 @@
 
 ### 🚀 About Me
 
+- 🏋️ I'm in my training arc — leveling up my skills every day
 - 🔭 Software Engineer focused on building full-stack applications with the **MERN** stack
 - 🐍 Comfortable working in **Python** for scripting, backend services, and automation
 - 🐳 Use **Docker** to containerize and ship applications consistently
@@ -50,16 +58,6 @@
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=nicarl257&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nicarl257&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
